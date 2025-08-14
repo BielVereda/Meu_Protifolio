@@ -3,7 +3,7 @@
 Um portfólio moderno e responsivo, criado para apresentar meus projetos, habilidades e experiência de forma clara e estilosa. Fins recreativos e nostálgicos.
 
 ## 🌐 Prévia do Projeto
-Confira o portfólio online: [portifoliogabrielvereda.vercel.com](https://portifoliogabrielvereda.vercel.com)
+Confira o portfólio online: [portifoliogabrielvereda.vercel.com](https://portifoliogabrielvereda.vercel.app)
 
 ## 🛠 Tecnologias Utilizadas
 
