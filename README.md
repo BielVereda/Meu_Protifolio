@@ -19,7 +19,8 @@ Sempre busco aprender novas tecnologias e melhorar minhas técnicas de design e 
 ## 📬 Contato
 
 - GitHub: [Biel Vereda](https://github.com/BielVereda)  
-- Email: seu-email@exemplo.com  
+- E-mail (Estudante): gabriel.vereda@aluno.senai.br
+- E-mail (Pessoal): gabrielsantosvereda@gmail.com
 
 ---
 
